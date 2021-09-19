@@ -1,2 +1,2 @@
-questo file è ciao
+in questo repository provo ad imparare pyqt5
 
